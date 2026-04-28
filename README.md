@@ -28,7 +28,6 @@
 - [Services](#services)
 - [Migration from YAML](#migration-from-yaml)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -213,12 +212,6 @@ logger:
     custom_components.franklin_wh: debug
     franklinwh: debug
 ```
-
----
-
-## Contributing
-
-Issues and pull requests welcome at <https://github.com/cmarko89/homeassistant-franklinwh>.
 
 ## License
 
