@@ -2,6 +2,12 @@
 
 All notable changes to this integration are documented here. Versions follow the upstream `franklinwh` Python package, suffixed with our own patch counter when needed.
 
+## [2026.4.1] — 2026-04-28
+
+### Fixed
+
+- Startup failures (cloud unreachable at boot) now raise `ConfigEntryNotReady` instead of permanently marking the entry as "Not loaded." Home Assistant will retry automatically with exponential backoff until the gateway is reachable.
+
 ## [2026.4.0] — 2026-04-28
 
 ### Breaking
