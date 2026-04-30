@@ -15,7 +15,11 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License"></a>
 </p>
 
-> ⚠️ This project is unofficial and not affiliated with FranklinWH.
+<div align="center">
+
+⚠️ 🚨 **This is an unofficial integration and is not affiliated with or endorsed by FranklinWH.** 🚨 ⚠️
+
+</div>
 
 ---
 
