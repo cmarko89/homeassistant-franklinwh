@@ -1,5 +1,6 @@
 {
   "name": "FranklinWH",
   "content_in_root": true,
-  "zip_release": false
+  "zip_release": false,
+  "changelog": "https://raw.githubusercontent.com/Emkraan/homeassistant-franklinwh/main/CHANGELOG.md"
 }
